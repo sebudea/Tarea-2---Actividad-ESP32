@@ -21,7 +21,7 @@ const char *ssid = "GERONI";
 const char *password = "neo2363920678023";
 
 // Initialize Telegram BOT
-#define BOTtoken "7434930605:AAGV1vEjIaPz_Og3eqSaoejuSVKZhTzpmzI" // your Bot Token (Get from Botfather)
+#define BOTtoken "XXXXXXXXXX" // your Bot Token (Get from Botfather)
 
 // Use @myidbot to find out the chat ID of an individual or a group
 // Also note that you need to click "start" on a bot before it can
